@@ -7,7 +7,7 @@ module Genome
           site_url:           'http://www.ncbi.nlm.nih.gov/pubmed/16376820/',
           citation:           'The druggable genome: an update. Russ AP, Lampel S. Drug Discov Today. 2005 Dec;10(23-24):1607-10. PMID: 16376820',
           source_db_version:  '26-Jul-2011',
-          source_type_id:     DataModel::SourceType.GENE,
+          source_type_id:     DataModel::SourceType.POTENTIALLY_DRUGGABLE,
           source_db_name:     'RussLampel',
           full_name:          'The druggable genome: an update (Russ & Lampel, 2005)'
 
